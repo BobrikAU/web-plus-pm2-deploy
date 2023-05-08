@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('http://api.mestokirbob.students.nomoredomains.monster');
+  const api = new Api('https://api.mestokirbob.students.nomoredomains.monster');
 
   export default api;
